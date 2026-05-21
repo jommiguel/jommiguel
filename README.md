@@ -48,6 +48,7 @@ const me = {
 	stack:  "React · Next.js · TypeScript",
 	values: ["Clarity", "Craft", "Curiosity"],
 };
+```
 </td> </tr> </table> <br/>
 <br/>
 Philosophy
