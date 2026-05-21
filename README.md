@@ -154,14 +154,43 @@ Ship something honest. Improve it tomorrow.
 
 <sub><code>// signals</code></sub>
 
-### A public slice
+### Building, quietly
 
-<sub>Most of what I build lives in private orgs. The view below is the slice GitHub lets me show, private contributions included.</sub>
+<sub>Most of what I build lives in private orgs. The numbers below are generated server-side with my own token, so they include Ecost work too.</sub>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="top languages by commit" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-green-animate.svg" alt="3d contributions" width="100%" />
+  <img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-green-animate.svg" alt="a quiet year of commits" width="100%" />
 </p>
 
 <sub><code>// snake</code></sub>
