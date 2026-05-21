@@ -156,17 +156,35 @@ Ship something honest. Improve it tomorrow.
 
 ### Building, quietly
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jommiguel&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=00000000&title_color=34D399&text_color=A3A3A3&icon_color=34D399&ring_color=34D399" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jommiguel&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=34D399&text_color=A3A3A3" />
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jommiguel&theme=github_dark" alt="stats" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jommiguel&hide_border=true&background=0D1117&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=A3A3A3&dates=A3A3A3&currStreakNum=E5E5E5&sideNums=E5E5E5" alt="streak" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jommiguel&theme=github_dark" alt="languages" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jommiguel&theme=github_dark&utcOffset=0" alt="productive time" />
+
+</td>
+</tr>
+</table>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jommiguel&hide_border=true&background=00000000&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=A3A3A3&dates=A3A3A3&currStreakNum=E5E5E5&sideNums=E5E5E5" height="165" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jommiguel&bg_color=00000000&color=34D399&line=34D399&point=E5E5E5&hide_border=true&area=true&area_color=34D399&custom_title=A%20quiet%20year%20of%20commits" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jommiguel&bg_color=0D1117&color=34D399&line=34D399&point=E5E5E5&hide_border=true&area=true&area_color=34D399&custom_title=A%20quiet%20year%20of%20commits" />
 </p>
 
 <sub><code>// snake</code></sub>
