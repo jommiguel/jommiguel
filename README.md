@@ -190,7 +190,11 @@ Ship something honest. Improve it tomorrow.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-green-animate.svg" alt="a quiet year of commits" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="a quiet year of commits" src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-night-green.svg" width="100%" />
+  </picture>
 </p>
 
 <sub><code>// snake</code></sub>
