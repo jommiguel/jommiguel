@@ -156,12 +156,12 @@ Ship something honest. Improve it tomorrow.
 
 ### A public slice
 
-<sub>Most of what I build lives in private orgs. The graph below is the slice GitHub lets me show, private contributions included.</sub>
+<sub>Most of what I build lives in private orgs. The view below is the slice GitHub lets me show, private contributions included.</sub>
 
 <br/>
 
-<p>
-  <img src="https://ghchart.rshah.org/34d399/jommi97" alt="contributions" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jommi97/jommi97/main/profile-3d-contrib/profile-green-animate.svg" alt="3d contributions" width="100%" />
 </p>
 
 <sub><code>// snake</code></sub>
