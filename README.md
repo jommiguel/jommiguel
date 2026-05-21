@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=jommiguel&style=flat&label=visitors&color=0a0a0a&labelColor=0a0a0a" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=jommi97&style=flat&label=visitors&color=0a0a0a&labelColor=0a0a0a" alt="visitors" />
 
 </div>
 
@@ -154,37 +154,14 @@ Ship something honest. Improve it tomorrow.
 
 <sub><code>// signals</code></sub>
 
-### Building, quietly
+### A public slice
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<sub>Most of what I build lives in private orgs. The graph below is the slice GitHub lets me show, private contributions included.</sub>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jommiguel&theme=github_dark" alt="stats" />
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jommiguel&hide_border=true&background=0D1117&stroke=34D399&ring=34D399&fire=34D399&currStreakLabel=34D399&sideLabels=A3A3A3&dates=A3A3A3&currStreakNum=E5E5E5&sideNums=E5E5E5" alt="streak" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jommiguel&theme=github_dark" alt="languages" />
-
-</td>
-<td valign="top" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jommiguel&theme=github_dark&utcOffset=0" alt="productive time" />
-
-</td>
-</tr>
-</table>
+<br/>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jommiguel&bg_color=0D1117&color=34D399&line=34D399&point=E5E5E5&hide_border=true&area=true&area_color=34D399&custom_title=A%20quiet%20year%20of%20commits" />
+  <img src="https://ghchart.rshah.org/34d399/jommi97" alt="contributions" width="100%" />
 </p>
 
 <sub><code>// snake</code></sub>
@@ -192,9 +169,9 @@ Ship something honest. Improve it tomorrow.
 ### The garden, eaten kindly
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jommiguel/jommiguel/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jommi97/jommi97/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jommi97/jommi97/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jommi97/jommi97/output/snake-dark.svg" />
 </picture>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
